@@ -5,7 +5,7 @@ layout: home
 hero:
   name: "STT博客"
   text: "前端技术"
-  tagline: 项目知识点总结
+  tagline: 知识点总结
   actions:
     - theme: brand
       text: Markdown Examples
